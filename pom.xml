@@ -103,9 +103,8 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.103.215:8181/mylandmarktech/repository/tesla-web-snapshots/</url>
+	      <url>http://3.142.36.170:8181/mylandmarktech/repository/tesla-app-snapshots/</url>
 	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
